@@ -1,0 +1,15 @@
+{
+  "short_name": "Tell20",
+  "name": "Tell20 Online Store",
+  "icons": [
+    {
+      "src": "logos/tell1.png",
+      "sizes": "1088x1212",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#078B88",
+  "background_color": "#F7F4EC"
+}
